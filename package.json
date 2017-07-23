@@ -23,6 +23,10 @@
   },
   "homepage": "https://github.com/theseanathan/twitter_project#readme",
   "dependencies": {
+    "express": "^4.15.4",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "instagram-node": "^0.5.8",
     "reddit-oauth": "^1.1.1",
     "request": "^2.81.0",
     "snoowrap": "^1.14.1",
