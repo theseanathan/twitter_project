@@ -1,0 +1,35 @@
+{
+  "name": "twitter_project",
+  "version": "1.0.0",
+  "description": "Not entirely sure what to do with it, but will likely use the Twit API OR Twitter4J.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theseanathan/twitter_project.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Bot",
+    "TwitAPI",
+    "Twitter4J"
+  ],
+  "author": "Sean Darryanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theseanathan/twitter_project/issues"
+  },
+  "homepage": "https://github.com/theseanathan/twitter_project#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "instagram-node": "^0.5.8",
+    "reddit-oauth": "^1.1.1",
+    "request": "^2.81.0",
+    "snoowrap": "^1.14.1",
+    "twit": "^2.2.9"
+  }
+}
